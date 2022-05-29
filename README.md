@@ -1,6 +1,6 @@
 # FlyBuff-Wiki
 
-<img src="https://attachment.mcbbs.net/data/myattachment/forum/202204/13/162904cvm6hh6lh6735yrr.png" width="50px" />
+<img src="logo.png" width="50px" />
 
 <br />
 
